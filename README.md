@@ -8,7 +8,21 @@ I am not a professional programmer, so the code may not be perfect. The goal of 
 
 Code review, bug reports, pull requests, suggestions, and improvements are welcome.
 
-VS Translator Overlay is a small external Windows overlay for Vintage Story.
+
+## Windows SmartScreen warning
+
+Windows Defender SmartScreen may show a warning when you run the app for the first time.
+
+This happens because the executable is new and not code-signed yet. It does not automatically mean the app is malicious.
+
+If you trust this project and downloaded it from the official GitHub Releases page, click:
+
+More info → Run anyway
+
+The source code is available in this repository, so you can inspect it or build the app yourself.
+
+
+## VS Translator Overlay is a small external Windows overlay for Vintage Story.
 
 It:
 
@@ -95,7 +109,19 @@ The portable release is built with PyInstaller in one-folder mode.
 
 Буду рад ревью кода, сообщениям об ошибках, pull request, предложениям и улучшениям.
 
-VS Translator Overlay - это небольшое внешнее оверлей-приложение для Vintage Story под Windows.
+## Предупреждение Windows SmartScreen
+
+Windows Defender SmartScreen может показать предупреждение при первом запуске приложения.
+
+Это происходит потому, что `.exe` новый и пока не подписан цифровой подписью. Это не означает автоматически, что приложение вредоносное.
+
+Если вы доверяете проекту и скачали его с официальной страницы GitHub Releases, нажмите:
+
+Подробнее → Выполнить в любом случае
+
+Исходный код доступен в этом репозитории, поэтому его можно проверить или собрать приложение самостоятельно.
+
+## VS Translator Overlay - это небольшое внешнее оверлей-приложение для Vintage Story под Windows.
 
 Оно:
 
