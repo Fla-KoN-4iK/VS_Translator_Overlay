@@ -1,0 +1,13 @@
+.venv/
+**pycache**/
+*.pyc
+build/
+dist/
+*.spec
+error.log
+ocr_debug_capture.png
+ocr_debug_processed.png
+*.zip
+.env
+config.json
+release/

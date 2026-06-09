@@ -1,0 +1,8 @@
+PySide6
+keyboard
+pyperclip
+pyautogui
+deep-translator
+winrt-ocr-python
+pillow
+mss
