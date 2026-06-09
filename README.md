@@ -1,5 +1,13 @@
 # VS Translator Overlay
 
+AI-assisted development
+
+This project was created as a practical prototype with heavy assistance from AI tools, including ChatGPT and Codex.
+
+I am not a professional programmer, so the code may not be perfect. The goal of this project is to provide a useful external translation overlay for Vintage Story players.
+
+Code review, bug reports, pull requests, suggestions, and improvements are welcome.
+
 VS Translator Overlay is a small external Windows overlay for Vintage Story.
 
 It:
@@ -78,6 +86,14 @@ The portable release is built with PyInstaller in one-folder mode.
 ---
 
 # VS Translator Overlay
+
+Разработка с помощью ИИ
+
+Этот проект был создан как практический прототип при большой помощи ИИ-инструментов, включая ChatGPT и Codex.
+
+Я не профессиональный программист, поэтому код может быть неидеальным. Цель проекта — сделать полезный внешний переводчик-оверлей для игроков Vintage Story.
+
+Буду рад ревью кода, сообщениям об ошибках, pull request, предложениям и улучшениям.
 
 VS Translator Overlay - это небольшое внешнее оверлей-приложение для Vintage Story под Windows.
 
